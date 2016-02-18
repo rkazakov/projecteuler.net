@@ -1,6 +1,7 @@
 # projecteuler.net
 > My solutions for ProjectEuler.net tasks using C#
 
+![projecteuler.net counter](https://projecteuler.net/profile/rkazakov.png)
 
 ----
 - [Problem 1: Multiples of 3 and 5](/Problem1)
